@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BiggerNumberGame</string>
+    <string name="choose_text">Select the bigger Number</string>
+
+</resources>
